@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750512927461",
+    "project_id": "aichatbot-dafa7",
+    "storage_bucket": "aichatbot-dafa7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750512927461:android:bc8f4ee296eff62b68da0c",
+        "android_client_info": {
+          "package_name": "com.example.ai_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5b94przD5ZiV-eVrY0BDOD8OiHh_hp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
